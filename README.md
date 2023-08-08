@@ -42,4 +42,7 @@ The charts were then copied to a new sheet and used to create a dashboard. The d
 ## Conclusion
 This project successfully created a sales dashboard for a bike company using Microsoft Excel. The dashboard uses customer data to understand the demography of people who purchased bikes or did not. The dashboard is easy to use and provides valuable insights into customer behavior.
 
-The Excel workbook containing the data and dashboard is [here](
+The Excel workbook containing the data and dashboard
+
+
+
